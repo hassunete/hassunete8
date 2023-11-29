@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Saunders",
+  "age": 43,
+  "address": {
+    "street": "Fowi Way",
+    "city": "Sijofuzu",
+    "state": "MT",
+    "zip": "73520"
+  },
+  "contact": {
+    "phone": "(309) 216-5930",
+    "servicePhone": "800849733"
+  },
+  "birthday": "1976-04-29T17:23:22.340Z",
+  "ip": "156.42.47.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Jum ruaztav ezceh ujobu pejtoz te jij sewag te anilet as ugtug fukjakkad vev akkog ceg bauz. Ozu ligmu ufatamov bik ove kapu cighupu ilisu tugnog gat vehinim adkaggam cebaf ucro iw pelubted catonab. Wegopor mugewo ugogaco okizud pu he vuhpuhum rippafel gepu ko agemivmaz re tidekhi. Gewfu solkufka jomo fo ufvebnas piuhulug hazulupol moblezrer beed nu niwah utubut delehez elu po lumfedef guizzol.",
+    "bio": "Ajo bedesum obeji vuvwuh cebizno godubik ujetap he mibnugsi new dozukire nu ceiz bet so wujbil pildi hat. Ajiwos kut soab hokgitef imjober nomudid sovdi iso robvide baksikzuk af eci. Haub ujuic re kede nopa go lacva ub uzi vepajup dulpaldun topu kut zun co weru kirwig dat. Pewocid mil divmav giwikfa lucdo jevzu ka foppuwli wohim poingof kasuwudup dahmod. Ut go ivus zewocec zajom ba mobid sob ulge loz iwikivef ori. Benedede te ac eginomjas anaonu bonfam fozovnef doj alzenesu peco epu wojif mut."
+  },
+  "apiKey": "d9fa75ee85d051a129b41816389e34aac2f8296ccb8c691b343ef19586c58139",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
