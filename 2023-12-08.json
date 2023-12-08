@@ -1,0 +1,26 @@
+{
+  "name": "Isabella Lyons",
+  "age": 52,
+  "address": {
+    "street": "Wuho Road",
+    "city": "Ciheiti",
+    "state": "IL",
+    "zip": "15362"
+  },
+  "contact": {
+    "phone": "(445) 522-2924",
+    "servicePhone": "800814148"
+  },
+  "birthday": "1973-03-18T02:47:18.269Z",
+  "ip": "199.57.178.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Vedeli her apeori zamam iwezpoc fukwaci uffe luwotmu hu mij ve ahudis kinowi ubboek wirbu wobnazaso. Nuhorihi ejoate worrewat zuj otaulide raugu fet pormika aw kicpetizu lacodla igupofreb gev tibco. Gu it eglo ujeve vug donihleh zagwig hugoze kacri ahiit narih vemige zebsivfa ten fu. Ju zuw acu gijecsig fuigbor fad tahica mig hoaja ugvi turi hekdet figguoh. Ozim fihmow apjefes wez mug johuh jukbozuf tirrugnad zoli vad dullef fi gobogaet najam.",
+    "bio": "Simetifil bicanve leran gul ledefate akuniwe edonauf gub malole pum am raemo te. Hovtazov rubku kiripwis ahiiwari henetav letila to miw ju ra uhwen mibage azpecuz benmal ges matep fe ti. Ez ulaza rodnop sa kisupe nufirorom rad bikepdeg zoaz incermi faufu cepjufhi jur cakiru nofeho."
+  },
+  "apiKey": "99e29ced1d294b17b6ec2ae5991cd49e77fa5d9a286d3ad94792a679f2262c85",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
