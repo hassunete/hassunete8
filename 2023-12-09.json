@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Johnson",
+  "age": 37,
+  "address": {
+    "street": "Bena Extension",
+    "city": "Zipacge",
+    "state": "IN",
+    "zip": "02842"
+  },
+  "contact": {
+    "phone": "(406) 586-6223",
+    "servicePhone": "800432723"
+  },
+  "birthday": "1993-06-23T19:58:53.093Z",
+  "ip": "124.76.241.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozbedzi maca ruw zezli devfiav si utvedti huoko siwpadu kemduvuv gel avbaimu ropgi lubah epina tobpu. Hukac onvel sas za mik vivu dohaha uguvavid nozehciv belitso magudhov meluru vultef zitdan gobnohfir esa. Zi elorow cucu zejapa hi nosseb donadi azsocven ipute rufide ju ca. Inufi bi wojgu ciki mesuc teki gor bine cabormut sopo nefsuzhob cuah cunfooj lebepef lettelno pufi cenhu cap.",
+    "bio": "Sajuna daifiti hozfoc veb lapohbe haknujo zetu dadanlu dasraskiz geb weh lodar bedoibo japreet. Pi ugu job touvri runa id jar nac cenov dudo som kagikize lu zuw betkec. Irotespin ab oknal tumnu wulufbo owa bum puk lulso dohrueri me ul zecuude ra sar uno vabcer."
+  },
+  "apiKey": "411bd566858bda4199859f946a7a9120be152f649700fcf4c9631f2bfd4c8e78",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
