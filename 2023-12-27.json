@@ -1,0 +1,26 @@
+{
+  "name": "Peter Howard",
+  "age": 48,
+  "address": {
+    "street": "Kirek Heights",
+    "city": "Arogihsu",
+    "state": "VA",
+    "zip": "98222"
+  },
+  "contact": {
+    "phone": "(308) 873-3620",
+    "servicePhone": "800337388"
+  },
+  "birthday": "1977-03-09T10:47:34.844Z",
+  "ip": "163.12.48.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Beev cublolib zuhbe tizho nop upbobu rohcuzo ha we jibuzmo icvekub eve ropam bezeh. Vafre ibfaran pe jop awet iluec ji ipkobju dedjol ike car fopko jehhizsam deati noso fa ti apaoz. Posne wadliak erfertu nazbeped jukih luamcew pimanu ves no bumij an vekowpi.",
+    "bio": "Mina bobjagov dulmudeh guhetbe sodmaz gaser setnir sonwinuv ge rig taja ja wecojib. Jukrul enzojis va anzo epa ruset obimoso ekla hovroew kezijrip vejop ewma igevuse um lenad kujovri isoswup lufzomas. Emugi covujojo iba sok ipajucpi bos ekkuoh zu ecdebmij fu cunkahwi di fiariat ub. Goftuawu mukciklas tiwjessas ra gi solrum saba sambiv co wa wukga ane he. Ni fuso uvijoew pozcuwe fidamfi mibaol zev hapro hibaja atuze lofu bumoiso jomos ud umi sosto obmuc. Duk how agzoc lucamogu cizpola jev ruzaw ka da norkajset udocotwo no ijiso met vi."
+  },
+  "apiKey": "3a6d4ff9fa47fa5e6c8be151a65aba3613d67b28d2e05107e75892aeb60bb3f2",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
