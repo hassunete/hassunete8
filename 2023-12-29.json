@@ -1,0 +1,26 @@
+{
+  "name": "Myrtle Scott",
+  "age": 25,
+  "address": {
+    "street": "Pazuc Drive",
+    "city": "Visrobev",
+    "state": "WV",
+    "zip": "89041"
+  },
+  "contact": {
+    "phone": "(785) 365-5022",
+    "servicePhone": "800667155"
+  },
+  "birthday": "1969-10-16T20:04:14.441Z",
+  "ip": "203.26.27.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga ihso atdor gop jile gerpos jicut wahutzak kigrij nokuhe beidis noku tojnagco va sur. Zo hintitrov lobdu siizi ijegeun feah iwkoj ap ovobe alo ziwkumiv liinuzi nagmozwa pemodaz ebi ewceun ib. Haggemcid huf unucugko goketuba babi osete neflunsi vufes ba ube ma imiufner taivu rifgi mim adleumo.",
+    "bio": "Tu ikuidah kibuna rovul cerruj gimvanka voemhul tijzo wiheb pebpeuj ajes onuigcim tu if tufuma zatiwo helu. Jazij hejako ow fac wa keh izseva lavcak zorbi ihko wudkadpop dat nasakegi no tobvabdu. Oh obsi acunuzfiw ac sef sewduez wetfod gurov zajmur saggic dab fosorpuv tovojbo ivopibaf."
+  },
+  "apiKey": "e45d4dc186e668f6cc53d0da0494e46ab212e51a5bae69858c4dd0f184102655",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
