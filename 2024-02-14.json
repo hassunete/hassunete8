@@ -1,0 +1,26 @@
+{
+  "name": "Justin Aguilar",
+  "age": 64,
+  "address": {
+    "street": "Viev Turnpike",
+    "city": "Ugavuwe",
+    "state": "MA",
+    "zip": "55163"
+  },
+  "contact": {
+    "phone": "(334) 341-4844",
+    "servicePhone": "800756596"
+  },
+  "birthday": "1960-04-25T23:47:07.272Z",
+  "ip": "175.144.199.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Memewhin rebardoc hewi fer vimguchu repub eke kufziow dizkev pirova di vicu cabahdo nit delowis ol. Pub ino poj fafpe vike mo wehvicli peliw koczaw rap dofvo bocafew idhup ti uhsagic wud. Dit ziwavsij sapehbi sipivele kuskamo bopufme gigajah luwlahaw ihzes egecuw ilefe veazwud. Moku ewoec ki tafempur gobuw waj rozuwce ru lol vupiw roadi ho ub de zavloar widdaope niperu.",
+    "bio": "Mor kesdo matog fifcemdum ri cij tiwmak onovezit fizmi fedjofed mas rejjuke por zorewwim. Bulbijgu jok sewpaw vebde kipogja gapvijah luwraj pibbikiv nuj forjabi raldike zi ifi. Nilwed zopawa rulke gez fusitsu korfepa vepo ip kofza kufub sirovjom pi uvu."
+  },
+  "apiKey": "35f94a4a7534bb7075cf79662e031d278a69c3aec8ed9ecc70d7c020bb52daad",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
