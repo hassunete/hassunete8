@@ -1,0 +1,26 @@
+{
+  "name": "Peter James",
+  "age": 54,
+  "address": {
+    "street": "Fepba Loop",
+    "city": "Lebbobam",
+    "state": "FL",
+    "zip": "99619"
+  },
+  "contact": {
+    "phone": "(207) 820-6616",
+    "servicePhone": "800321148"
+  },
+  "birthday": "1974-08-12T08:39:12.951Z",
+  "ip": "180.216.27.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Ku olanaf lujduv er meaf wi behsosuz sodbobohe bupva lisini sevod fu dek. Joltiseg zoldizwo ze ti ki urufiz eta bap bi ebuvhu rejgabkor hutuasu edwo. Fup bodojan ehomi falireder hu hib kodeke sumuca fupu gu ju zeb oplizva. Age ma kid usu cu mellu oli res uzoringed ibedinno wiuzu udtu. Ojaewida anpu moj iradolem eta ibejul apdoz ege niwpup nupoku ilala becuwo aglan sicedva. Ac naslicce jaffa hu ihrasis jonumabon meheh ma cul no de vesmu riv wose afa.",
+    "bio": "De racuzes vimacec rumevtat fal bawobwuz wof utriropo zevip kufna odaom pullozhaw nithadi hazizo. Mu rune ussagwur jegsotid da uvesi us ine melluk zuzowel hofhapvo ja. Etu voneip ujoheala vugoh ralinecu vu pope vuumeoh juputi elpoige agbujtal samikla imrujo. Los av geto fithuh vu sihrikiro gapsuh taj wowwetna sewpal zimafah erkenpah rer. Nupmef puvene dojuok mirekasu oltegnek oknapo gas cuvlac vu totbok fuzo waiki seviwfa."
+  },
+  "apiKey": "a8e63356630e124b3e19379c34cf0836fe879f9c57bb7ae82a437d782bfd96f4",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
