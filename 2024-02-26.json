@@ -1,0 +1,26 @@
+{
+  "name": "Jay Gray",
+  "age": 55,
+  "address": {
+    "street": "Fizma Circle",
+    "city": "Waswave",
+    "state": "NE",
+    "zip": "84507"
+  },
+  "contact": {
+    "phone": "(770) 924-1525",
+    "servicePhone": "800455482"
+  },
+  "birthday": "1996-12-18T20:18:24.290Z",
+  "ip": "83.249.169.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Sevhi setihfa tazjin zerimber norlo iruad apfogi cadbebnuk sovupo azi peavhu mobwude ji muk guvopid zemi. Vag izema huvemdoj ucatoj mefiriv kagcur vah mooma mivumada meuni pokfod eve. Zudhal vaja fe vibni kud taw kunuh ucioror zal zom ef guakofef efeisife. Cev uhosu wodjohli vavetda ta rezbuco ijo iwuge bebgon mocka fa zo joknem vu jug ik suupa. Tos oclo pihnupi wonip li rov baomucen uw upome mibupep mulahoha kalzicog vijezzes ojopopgal map ewi zab hikikmuf. Fa az ki vogru zucmevmec ismoteko tuhucobek fo eriwec nos kot web icamusi sow zobpec pa of.",
+    "bio": "Jaovu tufmi kigmis firatzod biwakruc vicoh zip ka giwep sodu taced wesojwud. Tudlug bosvotve pefjos rur we rahmo joure olapahre wolmor heibi sepwajek dawsefe fizji veow muiro viscot. Hibvec jeh jefgilet livibuk mati huk modbaro fopkek un mu vi si ek tucigju bopejohu raubosi gahgihpe."
+  },
+  "apiKey": "fef1d51c9d803eb90c8b5085940818d89d1157dfbe9f2a6297a3cad1e51fe0b4",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
