@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Davidson",
+  "age": 39,
+  "address": {
+    "street": "Nanfez Manor",
+    "city": "Begtiir",
+    "state": "AL",
+    "zip": "80838"
+  },
+  "contact": {
+    "phone": "(643) 366-6711",
+    "servicePhone": "800285511"
+  },
+  "birthday": "1978-07-30T18:58:14.905Z",
+  "ip": "201.2.229.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Roc simivaw acomazgu hunsaszoc izzuica wuajfu guaze oso zepo tabrillow keja rutesuru zus famtiz meptinpih roz. Bu atevira worevwo bicef na ve mulrimvu ugfuuri mapjezca ofamac nu sual jucaku. Nem vu coitoz onjug vif iw zeejba kip ki jeg tujbughez uzejupe pi bezba ub pebe. Vij caf so ubu nuevenoc wevonkah woud ju sa buverse ruoruili wojez.",
+    "bio": "Fahal ipoifzam abied tahedu te ovipaz zir nabunnod dec ofifof vinhur ker fejumul. Mobun je awotav zodikiur ec actilre al tepep vuhac panoh wa fe ozat punijra ukoiw. Tu unubo bortelwof lu dosa dinuotu digur niowful moene mefip nukeage ik umos ose."
+  },
+  "apiKey": "dc18672dcb7c41294fb37846bbc236c8274a8c063281c1e8634ab3078643b1b9",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
