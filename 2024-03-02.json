@@ -1,0 +1,26 @@
+{
+  "name": "Charles Huff",
+  "age": 30,
+  "address": {
+    "street": "Najej Boulevard",
+    "city": "Olutebiwo",
+    "state": "HI",
+    "zip": "57904"
+  },
+  "contact": {
+    "phone": "(682) 619-9564",
+    "servicePhone": "800422855"
+  },
+  "birthday": "2000-02-01T22:51:46.200Z",
+  "ip": "206.164.254.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Guwetag zeec cogjif dijmi azodalub ir obuce jip nuzedogu waw alowepwij uw. Ejmitsij golir kicenhaw ek da hihipi tewiv tucfuawi odave imsiv idatazcam cubsa abag cat tuzajogoj. Izega lisu kitezu vihfi muhizagun dig cemar vac fojapraf eso jegab nurisas subpuk taprinjun dab hoorudec kumumgu fildilme. Uni deulo amowefhu iwaumu pi ce tebfole ibfuz tewonalu ubafe dut bulogo gulfe hur cikgawnoh fudvolter. Su imoweufo bafa tew ajkuda hohoez giafebi agifihvil egowcah ro voso sog amgew.",
+    "bio": "Bapde jaocme fu vocesva ju zaefade gef ce af kahuwbe hedeh ku. Mafde rewjob gireeji lajitu bevkanba fil uja gavewcu egi vekos web hauzcu muel jod bo. Ovesika ro midmiha owo kigedopit ci dawka fobjuopa cev ofre pozboko kihhiv wopzumi gaufwij tez wedug kok tizwelo. Zivinal oknizod zomav fizihowe reri ubovas patu nuwzuj fuinla resim niv letaf teret."
+  },
+  "apiKey": "7f0ce7887f7b6dfe905dcbb97ea59426169af54031f5e162594bae08ca2cc388",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
