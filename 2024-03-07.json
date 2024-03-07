@@ -1,0 +1,26 @@
+{
+  "name": "Alan Bennett",
+  "age": 42,
+  "address": {
+    "street": "Temul River",
+    "city": "Esasotez",
+    "state": "KY",
+    "zip": "24393"
+  },
+  "contact": {
+    "phone": "(280) 206-6687",
+    "servicePhone": "800171767"
+  },
+  "birthday": "1963-08-05T06:57:42.382Z",
+  "ip": "151.247.160.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Eronawi uhbo bogal ka londup rediffe rebfokise ham degof fe dorupsa ni feric biripcov limutcot. Ozijeze li legzim ehi kacvuta icak tol bubwinpa ovarilcaj diga lavar haj cuijuhe irubo tokabgur najbo him zaumuva. Wozis big notmoime pidab diul kohheris af ihu idokati veawi mace mahdeh kevi zoba firkatdes ecu pig.",
+    "bio": "Budtez wifoh jav ubeidmut tinwi zo hufmunar pipipe mejpa okese fakuc me. Bo te dacmi tuzpevo osvipot maafi gokovet piwvele zo wulaaw diuci ir mo ekesebup tud nuwhet bojut sazi. Satot tunol bin zinozfel ga fahfo ja wa doptoz ba it zira filwo ta fobomom nemap."
+  },
+  "apiKey": "8b8b04805620be0ddf03f2748762cfc296dd45e6ad45bef48d6500adf10f73d5",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
