@@ -1,0 +1,26 @@
+{
+  "name": "Allie Rice",
+  "age": 20,
+  "address": {
+    "street": "Omiz Road",
+    "city": "Jamejalib",
+    "state": "TN",
+    "zip": "87249"
+  },
+  "contact": {
+    "phone": "(656) 599-5892",
+    "servicePhone": "800513996"
+  },
+  "birthday": "1993-07-17T05:13:23.822Z",
+  "ip": "121.57.196.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu titinzil jup nicepfow ku gama aso ventafoz mon numik laddi saddi onwat ruz. Muhbezus amnamep wa ofneg ja loznita git papi ce cew ti oc or. Wo lufliv ap vehbul umemuheko hod rujodiv utocetid ted ovwafo mofgun unuezi wuf kad nesbe.",
+    "bio": "Japlacwij wumoh edhahun bubi pigga genkifu muzci vaf jieja zapdovki cac zaure me jiggub julo ihjottut pozibo. Muj wipdi hez ikesrev hegcentoc ziwi epcetruz veeci isoswe gedazbip catnelefi lup ato caoc awo vi po. Ilugu uz timjap uvobo olfouk iri vi bal soapi imhef deitepu generguk to al it wipeci."
+  },
+  "apiKey": "a9d56171159e10c0c08ef2f66f11d1cd9841a966af642d334791017edfcce7a0",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
