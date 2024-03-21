@@ -1,0 +1,26 @@
+{
+  "name": "Ronald Evans",
+  "age": 56,
+  "address": {
+    "street": "Digzeh Mill",
+    "city": "Najerpi",
+    "state": "IA",
+    "zip": "12124"
+  },
+  "contact": {
+    "phone": "(605) 711-5885",
+    "servicePhone": "800753697"
+  },
+  "birthday": "2003-10-23T07:42:01.666Z",
+  "ip": "35.127.7.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Zooh owsa duh hic uposiro ihololi ki venca jozil kaulu foezbuk cuwid mi wafa vidwuw ta diw. Cabkiki nen vi fidufez kuwol het hocfil oh or ler diupi votkahi vov. Kifga su dowiru odzuvu pazposto ge no me sekku ipe zaku curvogoh kooniro.",
+    "bio": "Sosu varnedap do novron mukejbo vaz dajahdej ufepuvro ufakip re go bivvube acusice acawadra mipic tewo avocevav nod. Onadutma ato hurjok gu azdarop hum ig mumemme ewpi niwuh se kov. Cesbaw ugire andezsop jaruz bu vefo rako mob piv uzjijno bamarujaw tebnib."
+  },
+  "apiKey": "6787a5f9feb403d73caec97cd6e5df646d7363cb6169563d4981c5867deecf2b",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
